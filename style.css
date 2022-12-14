@@ -1,0 +1,14 @@
+#icono1 {
+    font-size: 45px;
+   
+}
+
+#icono2 {
+    font-size:100px;
+    color: blueviolet;
+}
+
+#chale button:hover {
+    color: #00ff00;
+}
+
